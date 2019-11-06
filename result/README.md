@@ -1,1 +1,1 @@
-This directory save execution result.
+This directory saves execution results.
